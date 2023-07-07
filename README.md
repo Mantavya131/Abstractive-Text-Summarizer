@@ -17,3 +17,4 @@ We utilized the pre-trained "facebook/bart-large" model. Training arguments were
 During evaluation, the model surprisingly performed better than in the training phase, recording a lower loss of 3.9. This demonstrates the robustness and effectiveness of our Abstractive Text Summarizer.
 
 
+
