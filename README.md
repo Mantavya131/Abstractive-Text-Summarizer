@@ -16,7 +16,7 @@ We utilized the pre-trained "facebook/bart-large" model. Training arguments were
 ## Model Evaluation
 During evaluation, the model surprisingly performed better than in the training phase, recording a lower loss of 3.9. This demonstrates the robustness and effectiveness of our Abstractive Text Summarizer.
 
-## Model Performance
+## Model Results
 input_texts=[The wedding season in the entertainment industry is in full swing. After Parineeti Chopra-Raghav Chadha’s engagement ceremony and Sunny Deol’s son Karan Deol’s wedding with Drisha Acharya, television industry celebs are also commencing the journey of companionship. Sreejita De, who has been in the news for quite some time ever since her stint at Bigg Boss 16 hosted by Salman Khan also decided to get hitched. She has been dating her German beau Michael Blohm-Pape for quite some time and the couple had been serious for taking their relationship forward.]
 
 summary_text: "The wedding season in the entertainment industry is in full swing. After Parineeti Chopra-Raghav Chadha’s engagement ceremony and Sunny Deol's son Karan Deela's wedding with Drisha Acharya, television industry celebs are also commencing the journey of companionship. Sreejita De, who has been in the news for quite some time ever since her stint at Bigg Boss 16 hosted by Salman Khan, decided to get hitched."
